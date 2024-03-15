@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/doliDjango.iml" filepath="$PROJECT_DIR$/.idea/doliDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pyrcieve/.idea/Pyrcieve.iml" filepath="$PROJECT_DIR$/../Pyrcieve/.idea/Pyrcieve.iml" />
     </modules>
   </component>
 </project>
